@@ -23,6 +23,7 @@ It demonstrates practical AWS skills across networking, compute, storage, APIs, 
 
 ## 📐 Architecture
 
+```text
 [ HTML Resume Site ]
         ↓
     [ S3 Bucket ]
